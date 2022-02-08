@@ -1,1 +1,1 @@
-# CGANFashionMNIST
+# CGANMNIST
